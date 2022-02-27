@@ -1,4 +1,3 @@
-
 lista = ["gato" , "ángel" , "fiesta" , "senderismo" , "pan" , "bebida"]
 indice = 0
 palabra = input("Seleccione la palabra que desea buscar en la tabla: ")
