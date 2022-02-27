@@ -1,7 +1,7 @@
 # ejercicios-recursividad-2
 Mi dirección de Github es:https://github.com/claudiaalozano/ejercicios-recursividad-2.git
 
-##1. Búsqueda por dicotomía en una tabla ordenada
+#1. Búsqueda por dicotomía en una tabla ordenada
 
 En este ejercicio nos pide una busqueda recursiva por dicotomía de una tabla y para realizarlo, he empleado el siguiente código:
 ```lista = ["gato" , "ángel" , "fiesta" , "senderismo" , "pan" , "bebida"]
@@ -17,7 +17,7 @@ def buscar (lista, palabra, indice):
       buscar(lista, palabra, indice)
 ```
 
-##2. Palíndromos
+#2. Palíndromos
 En este ejercicio nos pide introducir una cadena y que el programa nos devuelva si se trata de palíndromo o no, y para realizarlo he empleado el siguiente código:
 
 ```entrada = input("Introduzca la cadena que desea analizar  comprobar si es un palíndromo: ")
@@ -45,7 +45,7 @@ else:
   print("La cadena de texto que usted ha introducido, no es un palindromo")
 ```
 
-##3. La bandera de Dijkstra
+#3. La bandera de Dijkstra
 En este programa nos piden ordenar la bandera con un número de fichas y para realizarlo he empleado el siguiente código:
 
 ```bandera_dijkstra = []
